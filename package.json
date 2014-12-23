@@ -1,6 +1,6 @@
 {
   "name": "DemocracyOS",
-  "version": "0.8.25",
+  "version": "0.8.26",
   "description": "An online space for deliberation and voting on political proposals. The software aims to stimulate better arguments and come to better rulings.",
   "homepage": "http://www.democracyos.org/",
   "keywords": [
@@ -72,7 +72,8 @@
     "strip": "0.0.7",
     "mkdirp": "0.5.0",
     "builder-jade": "1.0.1",
-    "stylus": "0.48.1"
+    "stylus": "0.48.1",
+    "notifier-client": "0.1.0"
   },
   "devDependencies": {},
   "main": "pdr",

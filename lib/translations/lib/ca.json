@@ -46,6 +46,12 @@
   "Please wait": "Si us plau espera",
   "More information": "més informació",
 
+  "settings.notifications.title": "Configuració de Notificacions",
+  "settings.notificatinos.get-email-when": "Obtenir un email quan",
+  "settings.notifications.new-topic": "Un nou tema es publica",
+  "settings.notificatoins.someone-replies-your-comments": "Algú respon a un dels seus comentaris",
+  "settings.notifications.someone-mentions-in-their-comment": "Algú li esmenta en un dels seus comentaris",
+
   "validators.required": "cal",
   "validators.checked": "Camp obligatori comprovat",
   "validators.invalid.email": "Adreça de correu electrònic no és vàlid",
@@ -58,6 +64,8 @@
   "validators.invalid.time": "temps no vàlid",
   "validators.min-length.singular": "Ha de ser com a mínim 1 caràcter",
   "validators.min-length.plural": "És mus ser d'almenys {n} caràcters",
+  "validators.max-length.singular": "Ha de ser 1 caràcter mentrestant",
+  "validators.max-length.plural": "Ha de ser com a mínim {n} caràcters com a molt",
   "validators.input.not-exists": "No existeix {name} elemental",
   "validators.password.not.match": "Les contrasenyes no coincideixen",
   "validators.not.match": "no hi ha resultats",
@@ -173,6 +181,7 @@
   "Nay": "Negatiu",
   "Abstain": "Abstenció",
   "Yes": "Si",
+  "No": "No",
   "Cancel": "Cancel",
   "Edit": "Editer",
   "Delegate": "Delegar",
@@ -204,6 +213,7 @@
 
   "proposal-article.article.alert.text": "Això és la versió de prova de DemocracyOS.",
   "proposal-article.article.alert.learn-more": "Més informació",
+  "proposal-options.error.voting": "S'ha produït un error en processar la teva vot. Si us plau, torna a intentar",
 
   "Remove argument" : "Traieu argument",
   "Spam" : "Reportar abús",

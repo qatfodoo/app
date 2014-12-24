@@ -10,6 +10,7 @@
     "citizen",
     "comments-edit",
     "comments-replies",
+    "comment-vote",
     "config",
     "markdown",
     "request",

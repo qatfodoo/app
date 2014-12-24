@@ -11,6 +11,7 @@
   },
   "locals": [
     "view",
+    "citizen",
     "request",
     "config",
     "render"
